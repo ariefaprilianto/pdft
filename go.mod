@@ -1,4 +1,4 @@
-module github.com/signintech/pdft
+module github.com/ariefaprilianto/pdft-gen
 
 go 1.12
 

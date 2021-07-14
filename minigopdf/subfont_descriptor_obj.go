@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/signintech/pdft/minigopdf/fontmaker/core"
+	"github.com/ariefaprilianto/pdft-gen/minigopdf/fontmaker/core"
 )
 
 //SubfontDescriptorObj pdf subfont descriptorObj object
